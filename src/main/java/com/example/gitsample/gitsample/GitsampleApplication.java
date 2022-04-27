@@ -10,6 +10,7 @@ public class GitsampleApplication {
 		SpringApplication.run(GitsampleApplication.class, args);
 		System.out.println("hello how are you");
 		System.out.println("where did you live");
+		System.out.println("where did you live");
 
     }
 
