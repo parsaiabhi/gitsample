@@ -11,6 +11,8 @@ public class GitsampleApplication {
 		System.out.println("hello how are you");
 		System.out.println("where did you live");
 		System.out.println("where did you live");
+		System.out.println("HELLO");
+		System.out.println("HELLO");
 
     }
 
